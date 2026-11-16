@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c520676-dbca-444f-b784-f4a53642f629" name="Changes" comment="added a basic timer">
-      <change beforePath="$PROJECT_DIR$/../data/lag_clearer/function/tick.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/../data/lag_clearer/function/tick.mcfunction" afterDir="false" />
+    <list default="true" id="2c520676-dbca-444f-b784-f4a53642f629" name="Changes" comment="made the item clearer">
+      <change afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,39 +15,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "banana-piecake"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;banana-piecake&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/banana-piecake/descent_lag_clearer.git",
-    "accountId": "530e7afd-b775-4962-93bb-4b53a468c3f1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/banana-piecake/descent_lag_clearer.git&quot;,
+    &quot;accountId&quot;: &quot;530e7afd-b775-4962-93bb-4b53a468c3f1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3MBjoKYFilvmRuyoUzDidloiCBZ" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/subze/AppData/Roaming/.minecraft/saves/angel boss world/datapacks/descent_lag_clearer/data",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/subze/AppData/Roaming/.minecraft/saves/angel boss world/datapacks/descent_lag_clearer/data&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\subze\AppData\Roaming\.minecraft\saves\angel boss world\datapacks\descent_lag_clearer\data" />
@@ -95,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794832508944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="made the item clearer">
+      <option name="closed" value="true" />
+      <created>1794832990830</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1794832990830</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -105,6 +113,7 @@
     <MESSAGE value="intial commit 2" />
     <MESSAGE value="added load and tick" />
     <MESSAGE value="added a basic timer" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a basic timer" />
+    <MESSAGE value="made the item clearer" />
+    <option name="LAST_COMMIT_MESSAGE" value="made the item clearer" />
   </component>
 </project>
