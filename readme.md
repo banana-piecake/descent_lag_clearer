@@ -1,1 +1,1 @@
-this is a simple datapack that kills items every 5 minutes with a warning, it will not kill ritualised items, there is a particle too
+this is a simple datapack that kills items every 5 minutes with a warning, it will not kill ritualised items, there is a particle too, it also resets on any player death to avoid losing items
